@@ -4,7 +4,7 @@ Software Engineer
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/arnolanglade?label=Follow)]([https://twitter.com/intent/follow?screen_name=arnolanglade](https://twitter.com/arnolanglade))
+[![Twitter Follow](https://img.shields.io/twitter/follow/arnolanglade?label=Follow)](https://twitter.com/arnolanglade)
 [![Linkedin: Arnaud langlade](https://img.shields.io/badge/-Arnaud Langlade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnaudlanglade/)](https://www.linkedin.com/in/arnaudlanglade/)
 ![GitHub followers](https://img.shields.io/github/followers/arnolanglade?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://arnolanglade.github.io)](http://arnolanglade.github.io)
