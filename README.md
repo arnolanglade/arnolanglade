@@ -20,13 +20,20 @@ I love sharing my knowledge and helping individuals I work with to progress. I c
 
 ## 🤝 Connect with me:
 
-
 <a href="https://www.linkedin.com/in/arnaudlanglade/"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/linkedin.svg" alt="Arnaud Langlade | LinkedIn" width="60px"/></a>
 <a href="https://twitter.com/arnolanglade"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/x.svg" alt="Arnaud Langlade | X" width="60px"/></a>
 </br>
 </br>
 </br>
 
+## 📝 Latest Blog Posts
+- [Don’t test private methods](https://arnolanglade.github.io/do-not-test-private-methods.html)
+- [Ease testing thanks to the dependency inversion design pattern](https://arnolanglade.github.io/ease-testing-thanks-to-the-dependency-inversion-design-pattern.html)
+- [Use composition instead of props drilling](https://arnolanglade.github.io/use-composition-instead-of-props-drilling.html)
+- [How to use custom React hook to increase application testability](https://arnolanglade.github.io/how-to-use-custom-react-hook-to-increase-application-testability.html)
+- [How to reduce coupling in your React app](https://arnolanglade.github.io/how-to-reduce-coupling-in-your-react-app.html)
+
+
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnolanglade)](https://github.com/yushi1007)
+[![Arnaud Langlade's github stats](https://github-readme-stats.vercel.app/api?username=arnolanglade)](https://github.com/arnolanglade)
