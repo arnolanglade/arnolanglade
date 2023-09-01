@@ -20,5 +20,13 @@ I love sharing my knowledge and helping individuals I work with to progress. I c
 
 ## 🤝 Connect with me:
 
+
 <a href="https://www.linkedin.com/in/arnaudlanglade/"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/linkedin.svg" alt="Arnaud Langlade | LinkedIn" width="60px"/></a>
 <a href="https://twitter.com/arnolanglade"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/x.svg" alt="Arnaud Langlade | X" width="60px"/></a>
+</br>
+</br>
+</br>
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arnolanglade)](https://github.com/yushi1007)
