@@ -29,8 +29,9 @@ I love sharing my knowledge and helping individuals I work with to progress. I c
 </br>
 
 ## 📝 Latest Blog Posts
+- [The Mikado Method: Small Steps, Big Improvements](https://arnolanglade.github.io/mikado-method.html)
+- [Open-Closed principle: Enhancing code modularity](https://arnolanglade.github.io/open-close-principle.html)
 - [Don’t test private methods](https://arnolanglade.github.io/do-not-test-private-methods.html)
-- [Ease testing thanks to the dependency inversion design pattern](https://arnolanglade.github.io/ease-testing-thanks-to-the-dependency-inversion-design-pattern.html)
 - [Use composition instead of props drilling](https://arnolanglade.github.io/use-composition-instead-of-props-drilling.html)
 - [How to use custom React hook to increase application testability](https://arnolanglade.github.io/how-to-use-custom-react-hook-to-increase-application-testability.html)
 - [How to reduce coupling in your React app](https://arnolanglade.github.io/how-to-reduce-coupling-in-your-react-app.html)
