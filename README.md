@@ -22,6 +22,8 @@ I love sharing my knowledge and helping individuals I work with to progress. I c
 
 <a href="https://www.linkedin.com/in/arnaudlanglade/"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/linkedin.svg" alt="Arnaud Langlade | LinkedIn" width="60px"/></a>
 <a href="https://twitter.com/arnolanglade"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/x.svg" alt="Arnaud Langlade | X" width="60px"/></a>
+<a href="https://mastodon.social/@arnolanglade"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/mastodon.webp" alt="Arnaud Langlade | mastodon" width="60px"/></a>
+<a href="https://bsky.app/profile/arnolanglade.bsky.social"><img align="left" src="https://raw.githubusercontent.com/arnolanglade/arnolanglade/main/bluesky.webp" alt="Arnaud Langlade | bluesky.svg" width="60px"/></a>
 </br>
 </br>
 </br>
