@@ -14,7 +14,7 @@ I focus on understanding the business needs to find the best solutions. I enjoy 
 
 👉 Want to enhance your team's skills?
 
-I love sharing my knowledge and helping individuals I work with to progress. I can help your teams make progress on technical subjects and also improve communication between technical and non-technical people through workshops like Example Mapping or Event Storming. Check out my blog at: [http://arnolanglade.github.io/blog](https://www.arnaudlanglade.com/blog) to explore topics I'm passionate about and discuss in depth. 
+I love sharing my knowledge and helping individuals I work with to progress. I can help your teams make progress on technical subjects and also improve communication between technical and non-technical people through workshops like Example Mapping or Event Storming. Check out my blog at: [https://www.arnaudlanglade.com/blog](https://www.arnaudlanglade.com/blog) to explore topics I'm passionate about and discuss in depth. 
 
 👉 Need assistance?  Need assistance with your projects? Let's connect and bring your ideas to life!
 
